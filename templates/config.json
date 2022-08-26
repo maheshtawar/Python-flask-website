@@ -1,0 +1,18 @@
+{
+    "parameter" :
+    {
+        "local_server" : "True",
+        "local_url" : "mysql+pymysql://root:@localhost/tryflask",
+        "production_url" : "",
+        "website_name" : "Mahesh Web",
+        "gmail-user" : "sending_mail@gmail.com ",
+        "gmail-password": "post key here",
+        "no_of_post" : 2,
+        "uploader location" : "E:\\Python Course with Notes\\00 Trying Coding\\Flask\\static\\assets\\img",
+        "facebook" : "https://www.facebook.com/mahesh28tawar",
+        "twitter" : "#",
+        "github" : "https://github.com/maheshtawar",
+        "admin_username" : "maheshtawar",
+        "admin_password" : "Pass@123"
+    }
+}
